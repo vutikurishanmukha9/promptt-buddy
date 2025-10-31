@@ -12,9 +12,7 @@ export const Footer = () => {
             Built with <Heart className="h-4 w-4 text-destructive fill-destructive animate-pulse" /> by{" "}
             <span className="font-semibold text-foreground">Shanmukh</span> using AI
           </p>
-          <p className="text-xs text-muted-foreground/70">
-            Powered by advanced prompt engineering frameworks
-          </p>
+          <p className="text-xs text-muted-foreground/70">Powered engineering frameworks</p>
         </div>
       </div>
     </footer>;
